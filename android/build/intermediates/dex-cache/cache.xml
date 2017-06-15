@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bba767620cadd965c2c5f15ce22c56a09c055340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_fa212609e0e0c3edaa851454ed5aaaf3957d8e8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-1.0.1_ce373959e75be6ee250ce4b162e6938a78edbe7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_e31bbc597d0867234fed0a370301506e94438013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-1.0.1_35c9d04079d2f7c0273e919f65911ccce44a47cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2cab185c34f905bf963a9fbab2eaf9eaa919a413">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f46893612436221af23a184aa971fd300339d39a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-1.0.1_1a627b4aed6a7d133371c631250445a8e9cefa29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-1.0.1_a0831eadd30ac41752425569a0641c3ec09552ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_b5eea8af2ab07439ddd67f7f47957ffbeee2f1db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_30aaff60b5a431f7b2be1f817d123bd2e227b59c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.43.4_88d03b12ec608fa243ab1634fb76a60b2ae0eb00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_82d3d4c63fc78ff9d498bc2ea3a8eaa01d976831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_28bcf9f5b0213c277781192ba1177de384625ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5cc87284d78ea55db4bcc4f00557912536b4d139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_366c9454714a99177eee1edb1129ac7eef8fce8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="877bcd0c3b2fe69c944718d7479329b7f8dab1b6">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_774e0ef0b74bc19fae0cc5f2847da63212673f7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_a66ec6f31eb14c6fd7f59c8939b4493c862b5f18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e94aacfd49b27fa3c5eb5c86ebb4c9638cf52b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_dc6d330c370fa929ae90915813bb00afcaaab508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_760f4b97aecd42ede8336c0c045330cf8f3bdf04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_fe17b09de7eb26efefe3ea9805cccdde59d536f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f9aa9c672ce4ffafac74f4484fa9bba62e27826a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_4341a69535fa2237aef9efe03f3c42d703c93b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-1.0.1_4da70ae260e86c3b9e5245b26bd8d8b86fcd7d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mprabakaran/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mprabakaran/Documents/qbse/poc/rn/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_69359b83d9d5a57143296ec8b33cedc02c60a420/classes.dex" />
+    </item>
+
+</items>
